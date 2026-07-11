@@ -1,23 +1,8 @@
 # Supply Chain Analytics Dashboard
 
+A comprehensive end-to-end Business Intelligence project built using **Python, PostgreSQL, SQL, DAX, and Power BI** to analyze sales, inventory, logistics, and supplier performance.
+
 ## Project Overview
-
-This project is an end-to-end Supply Chain Analytics solution built using PostgreSQL, SQL, DAX, and Power BI. It analyzes sales, inventory, logistics, and supplier performance through interactive dashboards to support business decision-making.
-
-The project demonstrates data extraction, transformation, modeling, visualization, and business analysis using industry-standard tools.
-
----
-
-## Objectives
-
-- Analyze overall sales performance
-- Monitor inventory levels and warehouse utilization
-- Track logistics and delivery performance
-- Evaluate supplier performance
-- Build interactive dashboards for business users
-
----
-
 ## Tech Stack
 
 - Power BI
