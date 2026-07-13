@@ -1,0 +1,38 @@
+product_id,product_name,category,brand,cost_price,selling_price
+101,Inspiron 15,Electronics,Dell,14266,18195
+102,XPS 13,Electronics,Dell,44436,54645
+103,Latitude 5420,Electronics,Dell,68810,92501
+104,Pavilion 14,Electronics,HP,58468,72987
+105,Victus 15,Electronics,HP,65439,81485
+106,Envy x360,Electronics,HP,20219,26554
+107,ThinkPad E14,Electronics,Lenovo,51480,60347
+108,IdeaPad Slim 5,Electronics,Lenovo,6035,7409
+109,Legion 5,Electronics,Lenovo,8717,10418
+110,MacBook Air M3,Electronics,Apple,11248,14732
+111,MacBook Pro 14,Electronics,Apple,12177,14067
+112,iPad Air,Electronics,Apple,5577,7504
+113,ROG Strix G16,Electronics,Asus,76104,101018
+114,Vivobook 15,Electronics,Asus,11349,13142
+115,Zenbook 14,Electronics,Asus,36300,43913
+116,260L Refrigerator,Home Appliances,LG,56606,75095
+117,1.5 Ton AC,Home Appliances,LG,19436,25126
+118,Front Load Washing Machine,Home Appliances,LG,44187,55978
+119,Double Door Refrigerator,Home Appliances,Samsung,54560,65268
+120,55 Inch Smart TV,Home Appliances,Samsung,48850,57862
+121,Microwave Oven,Home Appliances,Samsung,41246,53172
+122,Top Load Washing Machine,Home Appliances,Whirlpool,74736,97540
+123,Single Door Refrigerator,Home Appliances,Whirlpool,50701,67797
+124,Office Desk,Furniture,Godrej,23767,27390
+125,Wooden Cupboard,Furniture,Godrej,45702,56822
+126,Study Table,Furniture,IKEA,78062,98557
+127,Bookshelf,Furniture,IKEA,15921,18461
+128,Office Chair,Furniture,Nilkamal,52420,62067
+129,Plastic Storage Cabinet,Furniture,Nilkamal,22797,29182
+130,Wireless Mouse,Accessories,Logitech,68100,80825
+131,Mechanical Keyboard,Accessories,Logitech,17980,24111
+132,Bluetooth Speaker,Accessories,Boat,62371,83731
+133,Neckband,Accessories,Boat,52274,69989
+134,WH-1000XM5 Headphones,Accessories,Sony,60888,72291
+135,Portable Speaker,Accessories,Sony,51694,68382
+136,Flip 6 Speaker,Accessories,JBL,16630,21552
+137,Tune 770NC Headphones,Accessories,JBL,23526,30888
