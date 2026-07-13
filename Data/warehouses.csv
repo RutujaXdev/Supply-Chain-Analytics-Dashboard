@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,state,capacity
+1,Mumbai Warehouse,Mumbai,Maharashtra,25000
+2,Pune Warehouse,Pune,Maharashtra,20000
+3,Delhi Warehouse,Delhi,Delhi,30000
+4,Hyderabad Warehouse,Hyderabad,Telangana,18000
+5,Bengaluru Warehouse,Bengaluru,Karnataka,22000
+6,Chennai Warehouse,Chennai,Tamil Nadu,20000
+7,Kolkata Warehouse,Kolkata,West Bengal,17000
+8,Ahmedabad Warehouse,Ahmedabad,Gujarat,19000
+9,Jaipur Warehouse,Jaipur,Rajasthan,16000
+10,Lucknow Warehouse,Lucknow,Uttar Pradesh,15000
+11,Nagpur Warehouse,Nagpur,Maharashtra,18000
+12,Indore Warehouse,Indore,Madhya Pradesh,17000
+13,Kochi Warehouse,Kochi,Kerala,14000
+14,Bhubaneswar Warehouse,Bhubaneswar,Odisha,13000
+15,Chandigarh Warehouse,Chandigarh,Chandigarh,12000
