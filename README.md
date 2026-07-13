@@ -72,26 +72,19 @@ A comprehensive end-to-end Business Intelligence project built using **Python, P
 ## Dashboard Screenshots
 
 ### Executive Dashboard
-
-![Executive Dashboard]("C:\Users\Rutuja\Desktop\supplychaifirst.png")
+![Executive Dashboard](Images/supplychaifirst.png)
 
 ### Sales Dashboard
-
-![Sales Dashboard]("C:\Users\Rutuja\Desktop\salesperformance.png")
+![Sales Dashboard](Images/salesperformance.png)
 
 ### Inventory Dashboard
-
-![Inventory Dashboard]("C:\Users\Rutuja\Desktop\inventory.png")
+![Inventory Dashboard](Images/inventory.png)
 
 ### Logistics Dashboard
-
-![Logistics Dashboard]("C:\Users\Rutuja\Desktop\logistics.png")
+![Logistics Dashboard](Images/logistics.png)
 
 ### Supplier Performance Dashboard
-
-![Supplier Dashboard]("C:\Users\Rutuja\Desktop\supplier.png"
-)
-
+![Supplier Dashboard](Images/supplier.png)
 ---
 
 ## Key Business Insights
