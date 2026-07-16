@@ -85,6 +85,20 @@ A comprehensive end-to-end Business Intelligence project built using **Python, P
 
 ### Supplier Performance Dashboard
 ![Supplier Dashboard](Images/supplier.png)
+
+## Skills Demonstrated
+
+- Data Modeling
+- SQL Query Writing
+- PostgreSQL Database Management
+- Python Data Generation
+- Power BI Dashboard Development
+- DAX Measures
+- Power Query
+- Data Visualization
+- Business Intelligence
+- KPI Development
+- Supply Chain Analytics
 ---
 
 ## Key Business Insights
